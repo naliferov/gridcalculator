@@ -8,7 +8,6 @@ import { Label } from '@/components/ui/label'
 <template>
 
 <div class="grid grid-cols-3 grid-rows-2 gap-4">
-    <!-- Первая строка -->
     <div class="flex">
       <Label for="input1">Max width:</Label>
       <Input id="input1" type="text" />
